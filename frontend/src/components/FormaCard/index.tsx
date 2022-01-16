@@ -16,7 +16,7 @@ import { BASE_URL } from 'utils/requests';
             .then(response =>{
                 setMovie(response.data);
             });
-        }, []);
+        }, [movieId]);
 
         return (
             <div className="dsmovie-form-container">
