@@ -17,7 +17,9 @@
 
 # DSMovie
 
+![01](https://user-images.githubusercontent.com/68359459/149702464-bb109ee8-73d6-4e1f-966a-3086ac27823d.png)
 
+![02](https://user-images.githubusercontent.com/68359459/149702495-36fddc29-f0a5-41be-be64-783db255fa90.png)
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
@@ -104,7 +106,8 @@ IMPORTANTE: deletar subpasta .git
   ### Passo: adicionar Bootstrap e CSS ao projeto
 - Bootstrap
 ```
-yarn add bootstrap@5.1.3```
+yarn add bootstrap@5.1.3
+```
 
 
  ### Passo: Componente Navbar
@@ -112,8 +115,7 @@ yarn add bootstrap@5.1.3```
 ATENÇÃO: no arquivo tsconfig.json: `"baseUrl": "./src"` (reinicie o app)
 
 - Instalar React Router DOM
+
 ```
 yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2
 ```
-
-
